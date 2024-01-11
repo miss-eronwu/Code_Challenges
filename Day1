@@ -1,0 +1,13 @@
+# Create a program that swaps the values of two variables.
+a = "Hello"
+b = "World"
+
+# Swapping the values
+new_word = a
+a = b
+b = new_word
+
+# Displaying the swapped values
+print("After swapping:")
+print("a =", a)
+print("b =", b)
